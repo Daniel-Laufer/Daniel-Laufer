@@ -5,19 +5,28 @@
 
 [🏠 Personal Website](https://daniel-laufer.github.io/)
 
+👋🏻 Hi, my name is Daniel!
 
-Hi there 👋 , My name is Daniel! I am a student at the University of Toronto studying computer science, information security, and mathematics. I am extremely passionate about software engineering and I love to learn about new topics/concepts/tools that allow me to build personal projects which interest me outside of school. Please feel free to check out some of my public project repositories below!
+📚 Pursuing an Honours Bachelor of Science with a specialization in Computer Science from the University of Toronto (3rd year).                 
 
-I am currently a Full Stack Software Developer at Wealthscope. In this position, I am primarily responsible for developing back-end APIs using the Django REST Framework and developing front-end applications with React and Redux. Some of the technologies I have used so far in this position are Technologies used: React, Redux, Django, Django REST Framework, Python, Pandas, AWS, Docker, and PostgreSQL. Please check out my LinkedIn profile to see what I have accomplished so far!
+💼 Currently working as a Full Stack React & Django Developer at Wealthscope. In the past, I have worked as a UofT CS Teaching Assistant as well as a Research Assistant at the Schulich School of Business.
 
-I am also a Google Developer Student Club Technical Lead at the University of Toronto. Among other responsibilities, I host biweekly technical workshops for students on topics including Git, Docker, AWS, and more!
+😎 I'm a Workshop/Technical Lead at my university’s Google Developer Student Club.
 
-Here are some of my technical skills 🛠 💻 :
-- Programming Languages/Frameworks/Libraries: Python, PostgreSQL, React, Redux, Java, C, Javascript, Node.js,Express.js, MIPS Assembly, Django, Django REST Framework, Pandas, Matplotlib, HTML, CSS
-- Cloud/OS/Tools: AWS, Docker, Kubernetes, Google Kubernetes Engine (GKE), Firebase, Travis CI, Skaffold, Git, Linux, Jira
-- Certifications: AWS Certified Cloud PractitionerOther: Object-oriented programming, UML, Software Design Patterns, Software Development Life Cycle, Agile Software Development, SCRUM, Test-Driven Development, CI/CD Pipelines, Microservice Architectures, JWT, REST, HTTP
-- Languages: English (Fluent), Polish (Conversational), French (Basic)
+🔍 Looking for a Software Engineering/Development internship for summer 2022. Please message me here on LinkedIn if you feel like I’d be a good fit for your company.
 
-I am looking for a summer 2022 internship at the moment, so please feel free to contact me if you feel like I'm a good fit for your company 😄 
+
+Skills: 
+
+    💻 Programming Languages/Frameworks/Libraries: Python, PostgreSQL, React, Redux, Java, C, Javascript, Node.js, Express.js, MIPS Assembly, Django, Django REST Framework, Pandas, Matplotlib, HTML, CSS
+
+    ☁️ Cloud/OS/Tools: AWS, Google Cloud, Linux/Unix, Docker, Kubernetes, Firebase, Travis CI, Git, Jira 
+
+    ✅ Certifications: AWS Certified Cloud Practitioner
+
+    ⌨️ Other: Object-oriented programming, Software Design Patterns, Software Development Life Cycle, Agile Software Development, SCRUM, Test-driven development
+
+    🌎 Languages: English (Fluent), Polish (Conversational), French (Basic)
+
 
 
