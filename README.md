@@ -9,7 +9,7 @@
 
 📚 Pursuing an Honours Bachelor of Science with a specialization in Computer Science from the University of Toronto (3rd year).                 
 
-💼 Currently working as a Full Stack React & Django Developer at Wealthscope. In the past, I have worked as a UofT CS Teaching Assistant as well as a Research Assistant at the Schulich School of Business.
+💼 Currently working at UofT as a CS Teaching Assistant. Previously worked as a Full Stack React & Django Developer at Wealthscope, and Research Assistant at the Schulich School of Business.
 
 😎 I'm a Workshop/Technical Lead at my university’s Google Developer Student Club.
 
