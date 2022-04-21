@@ -13,7 +13,7 @@
 
 😎 I'm a Workshop/Technical Lead at my university’s Google Developer Student Club.
 
-🔍 Looking for a Software Engineering/Development internship for summer 2022. Please message me here on LinkedIn if you feel like I’d be a good fit for your company.
+<!-- 🔍 Looking for a Software Engineering/Development internship for summer 2022. Please message me here on LinkedIn if you feel like I’d be a good fit for your company. -->
 
 
 Skills: 
