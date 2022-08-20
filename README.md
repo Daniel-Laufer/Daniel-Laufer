@@ -7,24 +7,21 @@
 
 👋🏻 Hi, my name is Daniel!
 
-📚 Pursuing an Honours Bachelor of Science with a specialization in Computer Science from the University of Toronto (3rd year).                 
+📚 Pursuing an Honours Bachelor of Science with a specialization in Computer Science and Information Security, with a Minor in Mathematics from the University of Toronto (3rd year).                 
 
-💼 Currently working at UofT as a CS Teaching Assistant. Previously worked as a Full Stack React & Django Developer at Wealthscope, and Research Assistant at the Schulich School of Business.
+💼 Currently working at UofT as a CS Teaching Assistant. Previously worked as a Full Stack React & Django Developer at Wealthscope, a Workshop/Technical Lead at my university’s Google Developer Student Club, and a Research Assistant at the Schulich School of Business.
 
-😎 I'm a Workshop/Technical Lead at my university’s Google Developer Student Club.
-
-<!-- 🔍 Looking for a Software Engineering/Development internship for summer 2022. Please message me here on LinkedIn if you feel like I’d be a good fit for your company. -->
+😎 Enrolled in the [PEY Co-op](https://engineeringcareers.utoronto.ca/co-opemployerguide/) program at the University of Toronto, currently seeking a 12-16 month co-op/internship.
 
 
 Skills: 
 
-    💻 Programming Languages/Frameworks/Libraries: Python, PostgreSQL, React, Redux, Java, C, Javascript, Node.js, Express.js, MIPS Assembly, Django, Django REST Framework, Pandas, Matplotlib, HTML, CSS
+    💻 Programming Languages/Frameworks/Libraries: C, C++, Python, Java, SQL, PostgreSQL, React, Redux, JavaScript,
+Node.js, Express, MIPS Assembly, Django REST Framework, Python’s Pandas Library, HTML, CSS.
 
-    ☁️ Cloud/OS/Tools: AWS, Google Cloud, Linux/Unix, Docker, Kubernetes, Firebase, Travis CI, Git, Jira 
+    ☁️ Cloud/OS/Tools: AWS, Google Cloud, Linux/Unix, Docker, Firebase, Git/GitHub, GitHub Actions, Travis CI, Jira. 
 
-    ✅ Certifications: AWS Certified Cloud Practitioner
-
-    ⌨️ Other: Object-oriented programming, Software Design Patterns, Software Development Life Cycle, Agile Software Development, SCRUM, Test-driven development
+    ✅ Certifications: AWS Certified Cloud Practitioner.
 
     🌎 Languages: English (Fluent), Polish (Conversational), French (Basic)
     
