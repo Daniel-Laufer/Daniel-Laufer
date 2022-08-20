@@ -11,7 +11,7 @@
 
 💼 Currently working at UofT as a CS Teaching Assistant. Previously worked as a Full Stack React & Django Developer at Wealthscope, a Workshop/Technical Lead at my university’s Google Developer Student Club, and a Research Assistant at the Schulich School of Business.
 
-😎 Enrolled in the [PEY Co-op](https://engineeringcareers.utoronto.ca/co-opemployerguide/) program at the University of Toronto, currently seeking a 12-16 month co-op/internship.
+😎 Enrolled in the [PEY Co-op](https://engineeringcareers.utoronto.ca/co-opemployerguide/) program at the University of Toronto, currently seeking a 12-16 month co-op/internship (with a start date of May 2023).
 
 
 Skills: 
