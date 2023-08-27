@@ -25,7 +25,7 @@ Node.js, Express, MIPS Assembly, Django REST Framework, Python’s Pandas Librar
     
     
     
-<hr/>
+<!-- <hr/>
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Daniel-Laufer"><img src="https://github-readme-stats.vercel.app/api?username=Daniel-Laufer&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Daniel-Laufer's GitHub stats" /></a>
