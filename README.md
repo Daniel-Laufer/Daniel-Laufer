@@ -7,17 +7,16 @@
 
 👋🏻 Hi, my name is Daniel!
 
-📚 Pursuing an Honours Bachelor of Science with a specialization in Computer Science and Information Security, with a Minor in Mathematics from the University of Toronto (3rd year).                 
+📚 Pursuing an Honours Bachelor of Science with a specialization in Computer Science and Information Security, with a Minor in Mathematics from the University of Toronto (4th year).                 
 
-💼 Currently working at UofT as a CS Teaching Assistant. Previously worked as a Full Stack React & Django Developer at Wealthscope, a Workshop/Technical Lead at my university’s Google Developer Student Club, and a Research Assistant at the Schulich School of Business.
+💼 Currently working a Software Engineer Intern at AMD. Previously worked as a teaching assistant in UofT's computer science department, a full stack React & Django Developer at Wealthscope, a Workshop/Technical Lead at my university’s Google Developer Student Club, and a Research Assistant at the Schulich School of Business.
 
 
 Skills: 
 
-    💻 Programming Languages/Frameworks/Libraries: C, C++, Python, Java, SQL, PostgreSQL, React, Redux, JavaScript,
-Node.js, Express, MIPS Assembly, Django REST Framework, Python’s Pandas Library, HTML, CSS.
+    💻 Programming Languages/Frameworks/Libraries: Python, JavaScript, TypeScript, Node.js, React, Redux, Java, C#, C, SQL (PostgreSQL), MongoDB, Django, Django Rest Framework, Flask, HTML, CSS.
 
-    ☁️ Cloud/OS/Tools: AWS, Google Cloud, Linux/Unix, Docker, Firebase, Git/GitHub, GitHub Actions, Travis CI, Jira. 
+    ☁️ Cloud/OS/Tools: AWS (S3, EC2, RDS), Google Cloud (Cloud Run, Compute Engine, Cloud Storage), Firebase, Docker, Git
 
     ✅ Certifications: AWS Certified Cloud Practitioner.
 
