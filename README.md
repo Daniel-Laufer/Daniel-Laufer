@@ -5,23 +5,10 @@
 
 [🏠 Personal Website](https://daniel-laufer.github.io/)
 
-👋🏻 Hi, my name is Daniel!
+I'm a Computer Science student at the University of Toronto and I will be graduating December 2024. **I'm currently seeking SWE new grad positions with a start date of January 2025**. Additionally, I am willing to relocate anywhere in the world if needed. 
 
-📚 Pursuing an Honours Bachelor of Science with a specialization in Computer Science and Information Security, with a Minor in Mathematics from the University of Toronto (4th year).                 
+I have nearly **2 years** of combined professional SWE experience from all my internships, and have worked with a plethora of languages and technologies with my specialty and passion being in back-end web development. Please check out some of my projects below and my linkedin above and please feel free to reach out if you are hiring! 
 
-💼 Currently working a Software Engineer Intern at AMD. Previously worked as a teaching assistant in UofT's computer science department, a full stack React & Django Developer at Wealthscope, a Workshop/Technical Lead at my university’s Google Developer Student Club, and a Research Assistant at the Schulich School of Business.
-
-
-Skills: 
-
-    💻 Programming Languages/Frameworks/Libraries: Python, JavaScript, TypeScript, Node.js, React, Redux, Java, C#, C, SQL (PostgreSQL), MongoDB, Django, Django Rest Framework, Flask, HTML, CSS.
-
-    ☁️ Cloud/OS/Tools: AWS (S3, EC2, RDS), Google Cloud (Cloud Run, Compute Engine, Cloud Storage), Firebase, Docker, Git
-
-    ✅ Certifications: AWS Certified Cloud Practitioner.
-
-    🌎 Languages: English (Fluent), Polish (Conversational), French (Basic)
-    
     
     
 <!-- <hr/>
