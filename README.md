@@ -5,7 +5,7 @@
 
 [🏠 Personal Website](https://daniel-laufer.github.io/)
 
-Hi! I'm a Computer Science student at the University of Toronto and I will be graduating December 2024. **I'm currently seeking SWE new grad positions with a start date of February 2025**. Additionally, I am willing to relocate anywhere in the world if needed. 
+Hi! I'm a Computer Science student at the University of Toronto and I will be graduating December 2024. **I'm currently seeking SWE new grad positions with a start date of January 2025**. Additionally, I am willing to relocate anywhere in the world if needed. 
 
 I have nearly **2 years** of combined professional SWE experience from all my internships, and have worked with a plethora of languages and technologies with my specialty and passion being in back-end web development. Please check out some of my projects below and my linkedin above and please feel free to reach out if you are hiring! 
 
